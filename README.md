@@ -9,13 +9,13 @@ I'm danilo camagno, I'm a front end programmer, I'm currently learning and creat
 ### Connect with me:
 
 <p>
-<a herf="https://www.instagram.com/camagno11/">
+<a href="https://www.instagram.com/camagno11/">
   <img aling="left" src="https://icons.veryicon.com/png/o/photographic/ant-design-official-icon-library/instagram-48.png" width="22px" alt="logo-insta">
 </a>
+  
 <a href="https://www.linkedin.com/in/danilo-camagno-7aa18a29a/">
   <img aling="left" src="https://icons.veryicon.com/png/o/application/fill-2/linkedin-107.png" width="22px" alt="logo-linkedin">
 </a>
-  
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilocamagno&size_weight=0.5&count_weight=0.5)
